@@ -20,9 +20,11 @@ public class Forecast {
         return date;
     }
 
+
     public DayTemperature getTemperature() {
         return temperature;
     }
+
     public Precipitation getDay() {
         return day;
     }

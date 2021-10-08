@@ -11,7 +11,9 @@ public class Precipitation {
     private boolean hasPrecipitation;
 
 
+
     public String getIconPhrase() {
         return iconPhrase;
     }
+
 }

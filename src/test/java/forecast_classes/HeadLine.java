@@ -20,8 +20,13 @@ public class HeadLine {
     @JsonProperty("EndEpochDate")
     private String endEpochDate;
 
+
+
     public String getText() {
         return text;
     }
+
+
+
 
 }
